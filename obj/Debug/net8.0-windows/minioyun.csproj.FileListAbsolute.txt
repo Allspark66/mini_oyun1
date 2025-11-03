@@ -1,0 +1,35 @@
+C:\projects\c#\New folder\Tapsiriq11\minioyun\obj\Debug\net8.0-windows\minioyun.Form1.resources
+C:\projects\c#\New folder\Tapsiriq11\minioyun\obj\Debug\net8.0-windows\minioyun.Properties.Resources.resources
+C:\projects\c#\New folder\Tapsiriq11\minioyun\obj\Debug\net8.0-windows\minioyun.csproj.GenerateResource.cache
+C:\projects\c#\New folder\Tapsiriq11\minioyun\obj\Debug\net8.0-windows\minioyun.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\New folder\Tapsiriq11\minioyun\obj\Debug\net8.0-windows\minioyun.AssemblyInfoInputs.cache
+C:\projects\c#\New folder\Tapsiriq11\minioyun\obj\Debug\net8.0-windows\minioyun.AssemblyInfo.cs
+C:\projects\c#\New folder\Tapsiriq11\minioyun\obj\Debug\net8.0-windows\minioyun.csproj.CoreCompileInputs.cache
+C:\projects\c#\New folder\Tapsiriq11\minioyun\bin\Debug\net8.0-windows\minioyun.exe
+C:\projects\c#\New folder\Tapsiriq11\minioyun\bin\Debug\net8.0-windows\minioyun.deps.json
+C:\projects\c#\New folder\Tapsiriq11\minioyun\bin\Debug\net8.0-windows\minioyun.runtimeconfig.json
+C:\projects\c#\New folder\Tapsiriq11\minioyun\bin\Debug\net8.0-windows\minioyun.dll
+C:\projects\c#\New folder\Tapsiriq11\minioyun\bin\Debug\net8.0-windows\minioyun.pdb
+C:\projects\c#\New folder\Tapsiriq11\minioyun\obj\Debug\net8.0-windows\minioyun.dll
+C:\projects\c#\New folder\Tapsiriq11\minioyun\obj\Debug\net8.0-windows\refint\minioyun.dll
+C:\projects\c#\New folder\Tapsiriq11\minioyun\obj\Debug\net8.0-windows\minioyun.pdb
+C:\projects\c#\New folder\Tapsiriq11\minioyun\obj\Debug\net8.0-windows\minioyun.genruntimeconfig.cache
+C:\projects\c#\New folder\Tapsiriq11\minioyun\obj\Debug\net8.0-windows\ref\minioyun.dll
+D:\c#\mini_oyun\bin\Debug\net8.0-windows\minioyun.exe
+D:\c#\mini_oyun\bin\Debug\net8.0-windows\minioyun.deps.json
+D:\c#\mini_oyun\bin\Debug\net8.0-windows\minioyun.runtimeconfig.json
+D:\c#\mini_oyun\bin\Debug\net8.0-windows\minioyun.dll
+D:\c#\mini_oyun\bin\Debug\net8.0-windows\minioyun.pdb
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\minioyun.Form1.resources
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\minioyun.Properties.Resources.resources
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\minioyun.csproj.GenerateResource.cache
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\minioyun.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\minioyun.AssemblyInfoInputs.cache
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\minioyun.AssemblyInfo.cs
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\minioyun.csproj.CoreCompileInputs.cache
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\minioyun.sourcelink.json
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\minioyun.dll
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\refint\minioyun.dll
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\minioyun.pdb
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\minioyun.genruntimeconfig.cache
+D:\c#\mini_oyun\obj\Debug\net8.0-windows\ref\minioyun.dll
